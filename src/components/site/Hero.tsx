@@ -38,7 +38,7 @@ export function Hero() {
       </div>
 
       <div className="relative z-10 mx-auto max-w-4xl px-6 py-32 text-center">
-        <p className="animate-fade-in font-wordmark text-[clamp(2.6rem,7vw,5.5rem)] leading-[1.05] font-semibold tracking-[0.14em] text-gold uppercase">
+        <p className="hero-enter font-wordmark text-[clamp(2.6rem,7vw,5.5rem)] leading-[1.05] font-semibold tracking-[0.14em] text-gold uppercase">
           Amy Dazzle Event
         </p>
         <div className="mx-auto mt-6 h-px w-24 bg-gold-line" />
